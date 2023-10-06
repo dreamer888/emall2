@@ -1,0 +1,57 @@
+
+商城小程序说明：
+
+一、针对中小商户、企业和个人学习和开发之用。
+使用Java编码，采用SpringBoot、Mybatis-Plus等易用框架。
+同时支持单机部署、集群部署，用户与店铺范围动态定位，中小商户企业可根据业务动态扩容。
+
+消费者客户端，使用uniapp前端框架，可同时编译到 微信小程序、H5、Android App、iOS App等几个平台，可为中小商户企业节约大量维护成本。
+带有骑手配送端  ,源码需要独立索取。
+也可支撑中小商户企业前期平台横扩需求。
+
+
+
+二、emall项目结构:
+
+- Java 后端服务
+    - emall-admin: 启动器（打包打这个就行）
+    - emall-admin-api: 提供管理员管理系统的WebApi
+    - emall-app-api: 提供APP、小程序、H5用户请求的WebApi
+    - emall-rider-api: 提供骑手APP、小程序、H5用户请求的WebApi
+    - emall-framework: 提供通用业务代码
+    - emall-system: 提供数据模型以及数据访问层封装
+    - emall-common: 提供注解、工具类等
+    - emall-generator: 代码生成器
+    
+- Vue 前端页面
+    - emall-admin-ui: 基于element-ui的后台管理页面
+    - emall-app-ui: 基于uniapp的小程序、H5、APP前端代码
+    - emall-rider-ui: 基于uniapp的小程序、H5、APP骑手代码
+  
+ 
+三、运行环境：
+MySQL	5.7或者8.0
+JDK	1.8（推荐）
+Redis	4.0.1（其他也可以）
+Nginx	1.2 以上 
+HbuilderX 3.7以上
+Node    推荐14到18 之间
+
+四、 测试账户号 ：
+后端
+账号：admin
+密码：es110212
+
+小程序 登录名:13333333333 
+点击一下获取验证码先
+然后输入验证码:666666，，
+
+五、 常见问题：
+
+1、会出现缺少文件 package.json文件，说明你用微信开发者工具，直接启动了emall-app-ui。
+前端代码是用uniapp开发的，要打开小程序，需要使用HBuilder X开发工具去运行代码。具体的群文件有 本地启动教程。
+
+
+六、技术支持 ：
+QQ 75039960
+18665802636 
