@@ -1,7 +1,10 @@
 # B2C多仓店商城小程序
 
 #### 介绍
-B2C多仓店商城小程序，前后端分离 ，后端java +前端 vue +消费者移动端uniapp （支持App ，小程序 ，H5），骑手移动端uniapp ， mysql  ，
+B2C多仓店商城小程序，前后端分离 ，
+后端java springboot诺依框架 +  前端 vue +  消费者移动端uniapp （支持App ，小程序 ，H5），
+骑手移动端uniapp ， 
+mysql  ，
 微信支付 。
 
 #### 软件部分截图
