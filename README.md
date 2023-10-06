@@ -38,11 +38,17 @@ mysql  ，
 #### 运行环境 
 
 MySQL	5.7或者8.0
+
 JDK	1.8（推荐）
+
 Redis	4.0.1（其他也可以）
+
 Nginx	1.2 以上 
+
 HbuilderX 3.7以上
+
 maven   3.63 以上
+
 Node    14 到18之间
 
 #### 安装教程
