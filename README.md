@@ -83,7 +83,9 @@ Node    14 到18之间
 
 #### 安装教程
 
-document下面有完整的部署文档
+document下面有完整的部署文档，，
+
+软件部署视频 ：https://www.bilibili.com/video/BV1tN411t7Gp/?vd_source=1db635fc04060deb7c4dfe378341bb4a
 
 
  **#### 登录说明** 
