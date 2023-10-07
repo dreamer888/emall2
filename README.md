@@ -34,6 +34,7 @@ mysql  ，
     - emall-app-ui: 基于uniapp的小程序、H5、APP前端代码
     - emall-rider-ui: 基于uniapp的小程序、H5、APP骑手代码
 
+
  **#### 后端技术框架：** 
 
 * 前端开发框架 Vue、Element UI
