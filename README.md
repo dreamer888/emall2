@@ -65,7 +65,7 @@ mysql  ，
 * 国际化 SpringMessage Spring标准国际化方案
 
 
- **#### 运行环境 ** 
+#### 运行环境 
 
 MySQL	5.7或者8.0
 
